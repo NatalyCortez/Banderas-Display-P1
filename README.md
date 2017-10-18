@@ -21,4 +21,4 @@ c.Javascript
 ---
 [Banderas-Display-p1](https://natalycortez.github.io/Banderas-Display-P1/.)
 
-![BDP1](Banderas Displayassents/BanderaDisplay1.jpg)
+![BDP1](Banderas Display/assents/BanderaDisplay1.jpg)
