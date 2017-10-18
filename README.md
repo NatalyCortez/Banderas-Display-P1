@@ -21,4 +21,4 @@ Vista previa:
 ---
 [Banderas-Display-p1](https://natalycortez.github.io/Banderas-Display-P1/.)
 
-![BDP1](assents\BanderaDisplay1.jpg)
+![BDP1](https://natalycortez.github.io/Banderas-Display-P1/)
