@@ -1,23 +1,23 @@
-##Banderas Display(primera parte)##
+Banderas Display(primera parte)
 ===
-###-Introducciòn:###
+Introducciòn:
 ---
 En este proyecto desarrollaremos ejemplos bàsicos replicados para poner pràctica lo aprendido en clase.
 
 
-###-Objetivo:###
+Objetivo:
 ---
 Aprender a utilizar *display* y maquetar de manera adecuada una pagina web.
 
 
 
-###-Herramientas utilizadas:###
+Herramientas utilizadas:
 ---
-+html  
-+css  
-+Javascript  
+a.html  
+b.css  
+c.Javascript  
 
-###-Vista previa:###
+Vista previa:
 ---
 [Banderas-Display-p1](https://natalycortez.github.io/Banderas-Display-P1/.)
 
